@@ -1,0 +1,5 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2Task3\NetModule2Task3\bin\Debug\NetModule2Task3.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2Task3\NetModule2Task3\bin\Debug\NetModule2Task3.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2Task3\NetModule2Task3\bin\Debug\NetModule2Task3.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2Task3\NetModule2Task3\obj\Debug\NetModule2Task3.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModule2Task3\NetModule2Task3\obj\Debug\NetModule2Task3.pdb
